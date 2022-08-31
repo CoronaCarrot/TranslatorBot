@@ -2,7 +2,7 @@
   <br>
   <img src="https://openweathermap.org/img/wn/10d@4x.png" alt="TranslatorBot Icon" width="200">
   <br>
-  WeatherBot
+  TranslatorBot
   <br>
 </h1>
 
