@@ -82,7 +82,5 @@ This discord bot uses the following open source packages:
 GNU Public License (GPL)
 
 ---
-
-> [Webpage](https://coronacarrot.github.io/WeatherBot/) &nbsp;&middot;&nbsp;
 > GitHub [@CoronaCarrot](https://github.com/CoronaCarrot) &nbsp;&middot;&nbsp;
 > Discord [CoronaCarrot#0001](https://discord.com)
