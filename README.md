@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://openweathermap.org/img/wn/10d@4x.png" alt="TranslatorBot Icon" width="200">
+  <img src="[https://openweathermap.org/img/wn/10d@4x.png](https://static.deepl.com/img/logo/deepl-logo-blue.svg)" alt="TranslatorBot Icon" width="200">
   <br>
   TranslatorBot
   <br>
