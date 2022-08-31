@@ -40,7 +40,7 @@ else:
 intents = discord.Intents.all()
 
 
-bot = commands.Bot(intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents)
 
 
 @bot.event
