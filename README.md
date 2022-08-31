@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://openweathermap.org/img/wn/10d@4x.png" alt="TranslatorBot Icon" width="200">
+  <img src="https://static.deepl.com/img/logo/deepl-logo-blue.svg" alt="TranslatorBot Icon" width="200">
   <br>
-  WeatherBot
+  TranslatorBot
   <br>
 </h1>
 
@@ -49,7 +49,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 $ git clone https://github.com/CoronaCarrot/TranslatorBot
 
 # Go into the repository
-$ cd WeatherBot
+$ cd TranslatorBot
 
 # Install dependencies
 $ pip install -r requirements.txt
@@ -82,7 +82,5 @@ This discord bot uses the following open source packages:
 GNU Public License (GPL)
 
 ---
-
-> [Webpage](https://coronacarrot.github.io/WeatherBot/) &nbsp;&middot;&nbsp;
 > GitHub [@CoronaCarrot](https://github.com/CoronaCarrot) &nbsp;&middot;&nbsp;
 > Discord [CoronaCarrot#0001](https://discord.com)
